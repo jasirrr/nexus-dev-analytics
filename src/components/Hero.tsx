@@ -12,7 +12,7 @@ const Hero = () => {
       
       <div className="relative z-10 text-center max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-          Hi, I'm <span className="gradient-text">Your Name</span>
+          Hi, I'm <span className="gradient-text">Ahamed Jasir</span>
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-4">
           Full Stack Developer & Data Analyst
